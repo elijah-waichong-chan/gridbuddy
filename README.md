@@ -15,9 +15,9 @@ Developed as part of the Georgia Tech undergraduate capstone project in Mechanic
 
 This repository contains multiple PlatformIO firmware modules that together form the GridBuddy prototype:
 
-- `GB - Monitoring/` — DC-side sensing + on-device display
-- `GB - Priority Switch/` — load-shedding decision logic / state machine
-- `GB - Remote/` — smart-plug / outlet control
+- `monitoring_module/` — DC-side sensing + on-device display
+- `priority_switch_module/` — load-shedding decision logic / state machine
+- `remote_module/` — smart-plug / outlet control
 
 > Each folder is its own PlatformIO project (see each module’s `platformio.ini`).
 
