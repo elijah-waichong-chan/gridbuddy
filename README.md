@@ -105,7 +105,7 @@ These plots show the calibration relationships used to convert raw analog/ADC re
 ### Load-shedding state machine
 
 <p align="center">
-  <img src="docs/media/load_shedding_state_machine.png" alt="GridBuddy Load Shedding State Machine" style="max-width: 100%; height: auto;" />
+  <img src="docs/media/state_machine_logic.png" alt="GridBuddy Load Shedding State Machine" style="max-width: 100%; height: auto;" />
 </p>
 
 **How the state machine works (high level):**
